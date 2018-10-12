@@ -2,4 +2,4 @@
 
 This project was written by C/C++.
 
-Coding, Quantization, Image Processing & Compression are included in this project.
+Coding, QMCoder, Quantization, Image Processing & Compression are included in this project.
